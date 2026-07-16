@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Claves privadas
+.env
+
+# Configuración local
+.vscode/
+
+# Modelos y datos generados
+models/*.joblib
+models/*.pkl
