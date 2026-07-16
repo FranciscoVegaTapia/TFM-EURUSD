@@ -1,0 +1,22 @@
+{
+    "activo": "EUR/USD",
+    "ticker": "EURUSD=X",
+    "fuente": "Yahoo Finance mediante yfinance",
+    "frecuencia": "1d",
+    "fecha_inicio_solicitada": "2004-01-01",
+    "fecha_fin_exclusiva": "2026-07-15",
+    "primera_fecha_obtenida": "2004-01-01",
+    "ultima_fecha_obtenida": "2026-07-14",
+    "numero_filas": 5845,
+    "columnas": [
+        "Adj Close",
+        "Close",
+        "High",
+        "Low",
+        "Open",
+        "Volume"
+    ],
+    "fecha_descarga_utc": "2026-07-16T04:09:53.090932+00:00",
+    "version_yfinance": "1.5.1",
+    "version_pandas": "3.0.3"
+}
